@@ -1,0 +1,2 @@
+# webapi
+The ASP.NET Web API is an extensible framework for building HTTP based services that can be accessed in different applications on different platforms such as web, windows, mobile etc. It works more or less the same way as ASP.NET MVC web application except that it sends data as a response instead of html view. It is like a web-service or WCF service but the exception is that it only supports HTTP protocol.
