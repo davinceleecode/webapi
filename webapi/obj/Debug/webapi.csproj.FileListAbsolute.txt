@@ -67,3 +67,16 @@ C:\Users\Lee\Desktop\SourceCode\webapi\webapi\obj\Debug\webapi.dll
 C:\Users\Lee\Desktop\SourceCode\webapi\webapi\obj\Debug\webapi.pdb
 C:\Users\Lee\Desktop\SourceCode\webapi\webapi\obj\Debug\webapi.Migrations.Initial.resources
 C:\Users\Lee\Desktop\SourceCode\webapi\webapi\obj\Debug\webapi.csproj.GenerateResource.cache
+C:\Users\Lee\Desktop\SourceCode\webapi\webapi\obj\Debug\webapi.Migrations.DatabaseGenerated.resources
+C:\Users\Lee\Desktop\SourceCode\webapi\webapi\bin\Autofac.dll
+C:\Users\Lee\Desktop\SourceCode\webapi\webapi\bin\Autofac.Integration.WebApi.dll
+C:\Users\Lee\Desktop\SourceCode\webapi\webapi\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lee\Desktop\SourceCode\webapi\webapi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lee\Desktop\SourceCode\webapi\webapi\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Lee\Desktop\SourceCode\webapi\webapi\bin\Autofac.pdb
+C:\Users\Lee\Desktop\SourceCode\webapi\webapi\bin\Autofac.xml
+C:\Users\Lee\Desktop\SourceCode\webapi\webapi\bin\Autofac.Integration.WebApi.pdb
+C:\Users\Lee\Desktop\SourceCode\webapi\webapi\bin\Autofac.Integration.WebApi.xml
+C:\Users\Lee\Desktop\SourceCode\webapi\webapi\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lee\Desktop\SourceCode\webapi\webapi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lee\Desktop\SourceCode\webapi\webapi\bin\System.Threading.Tasks.Extensions.xml
